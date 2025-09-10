@@ -40,3 +40,7 @@ C++:
       return -1;
     }
    ```
+  6. Languages;
+    Russian - native.
+    English - A2 (there is almost no speaking practice)
+   As for the rest, I'm studying, hoping the list of achievements will grow.
